@@ -1,4 +1,4 @@
-# Christian's "Windows Dotfiles"
+# "Windows Dotfiles"
 
 
 **Hey, there!**
